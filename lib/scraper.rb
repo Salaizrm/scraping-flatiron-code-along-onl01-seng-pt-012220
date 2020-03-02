@@ -17,7 +17,7 @@ class Scraper
     post.css("p").text
     binding.pry
   end
-end
+  end
     
     
   
